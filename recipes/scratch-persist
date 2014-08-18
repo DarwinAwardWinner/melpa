@@ -1,0 +1,1 @@
+(scratch-persist :repo "nflath/scratch-persist" :fetcher github)
